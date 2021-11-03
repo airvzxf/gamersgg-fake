@@ -4,4 +4,5 @@
 
 Integrantes:
 - Israel Wolf
+- Abraham wasd
 - Santiago Link
